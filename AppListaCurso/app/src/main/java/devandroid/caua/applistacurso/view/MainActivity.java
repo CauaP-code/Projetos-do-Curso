@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
         pessoa.setTelefoneContado("11-91122333");
 
         outraPessoa = new Pessoa();
+
         outraPessoa.setPrimeiroNome("Leticia");
         outraPessoa.setSobreNome("Cabral");
         outraPessoa.setCursoDesejado("Teatro");
